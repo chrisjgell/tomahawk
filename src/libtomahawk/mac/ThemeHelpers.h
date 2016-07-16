@@ -1,0 +1,4 @@
+#ifndef THEMEHELPERS_H
+#define THEMEHELPERS_H
+
+#endif // THEMEHELPERS_H
